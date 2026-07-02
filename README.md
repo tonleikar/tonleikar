@@ -4,7 +4,7 @@ I'm a **Full Stack AI Software Engineer** based in London / Hertfordshire. After
 
 - 🌍 Based in London / Hertfordshire
 - 📸 [Photography](https://www.instagram.com/saltyknuckles_/) on Instagram
-- 🌐 samhailey.com
+- 🌐 [samhailey.com](https://www.samhailey.com)
 
 ##  Tech
 [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=ruby,rails,html,css,js,python,bootstrap,tailwind,postgresql&t=dark&radius=85)](https://github.com/thuongtruong109/icoziv)
