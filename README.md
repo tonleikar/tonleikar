@@ -1,6 +1,6 @@
 
 # Hi, I'm Sam! 👋
-I'm a **Full Stack AI Software Engineer** based in London / Hertfordshire. After a successful career as a Videographer, I've channeled my lifelong passion for coding into building full-stack applications with AI integrations. I love solving complex logic problems and building practical everyday solutions for organizations doing impactful work.
+I'm a **Full Stack AI Software Engineer** based in London / Hertfordshire.
 
 - 🌍 Based in London / Hertfordshire
 - 📸 [Photography](https://www.instagram.com/saltyknuckles_/) on Instagram
